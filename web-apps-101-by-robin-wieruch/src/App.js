@@ -2,7 +2,7 @@ import './App.css';
 import * as Tasks from './tasks';
 
 function App() {
-  const ActiveTask = Tasks.TaskConditionalRenderingSwitch;
+  const ActiveTask = Tasks.TaskMultipleConditionalRenderings;
   return <ActiveTask />;
 }
 

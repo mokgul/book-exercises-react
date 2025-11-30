@@ -9,9 +9,10 @@ import TaskConditionalRenderingIfElse from "./task-conditional-rendering/task-co
 import TaskConditionalRenderingTernary from "./task-conditional-rendering/task-conditional-rendering-ternary";
 import TaskConditionalRenderingAND from "./task-conditional-rendering/task-conditional-rendering-&&";
 import TaskConditionalRenderingSwitch from "./task-conditional-rendering/task-conditional-rendering-switch.tsx";
+import TaskMultipleConditionalRenderings from "./task-conditional-rendering/task-multiple-conditional-renderings";
 
 export {
     Task01, Task02, TaskButton, TaskDropdown, TaskSelect, TaskReactList, TaskConditionalRenderingIf,
     TaskConditionalRenderingIfElse, TaskConditionalRenderingTernary, TaskConditionalRenderingAND,
-    TaskConditionalRenderingSwitch
+    TaskConditionalRenderingSwitch, TaskMultipleConditionalRenderings
 };
